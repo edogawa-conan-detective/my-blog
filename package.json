@@ -1,14 +1,14 @@
 {
   "name": "P45",
   "version": "1.0.0",
-  "description": "tokyo-proxy",
+  "description": "my-blog",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "node proxy.js"
+    "start": "node index.js"
   },
   "keywords": [
     "P45"
