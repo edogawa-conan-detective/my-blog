@@ -1,7 +1,7 @@
 {
-    "name": "tokyo-proxy8",
-    "description": "tokyo-proxy8",
-    "repository": "https://github.com/konomi-tokyo/tokyo-proxy8.git",
+    "name": "my-blog",
+    "description": "my-blog",
+    "repository": "github.com",
     "logo": "",
-    "keywords": ["tokyo-proxy", "proxy", "www"]
+    "keywords": ["my-blog", "blog", "www"]
   }
