@@ -11,4 +11,4 @@ RUN npm install
 
 COPY . .
 
-CMD [ "node", "proxy.js" ]
+CMD [ "node", "index.js" ]
